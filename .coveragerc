@@ -1,6 +1,5 @@
 [run]
-source=
-    /
+source = .
 
-omit=
-    /home/travis/virtualenv/*
+omit =
+    */virtualenv/*
