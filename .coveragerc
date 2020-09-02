@@ -1,3 +1,3 @@
-[report]
-exclude_lines =
-    def test_
+[run]
+omit =
+    parameterized.py
